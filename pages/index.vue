@@ -12,8 +12,8 @@
 <style lang="scss">
   $ikb: #002EA7;
   .container {
-    padding: 4vh;
     left: 50%;
+    padding: 4vh;
     position: absolute;
     text-align: center;
     top: 50%;
@@ -24,15 +24,14 @@
     color: $ikb;
     font-size: 8vh;
     font-weight: normal;
-    text-transform: uppercase;
     letter-spacing: .25em;
     padding-left: .25em;
+    text-transform: uppercase;
   }
   h2 {
-    // color: lighten(black,75%);
     font-size: 2vh;
-    text-transform: uppercase;
     letter-spacing: .25em;
     padding-left: .25em;
+    text-transform: uppercase;
   }
 </style>
